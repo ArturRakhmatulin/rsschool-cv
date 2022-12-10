@@ -1,5 +1,4 @@
 # Artur Rakhmatulin
-
 ## Contacts
 
 * **Location:** Taganrog, Russia
