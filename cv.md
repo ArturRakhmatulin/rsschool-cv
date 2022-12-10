@@ -24,6 +24,7 @@ I have drive, full of energy and ready to conquer the world.
  * C++
  * Python
  * Github
+ * SQL
 
 ## Code Example
 
