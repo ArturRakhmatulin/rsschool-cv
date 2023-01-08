@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #EDF2EC;
+  font-size: 25px;
+  line-height: 1.5;
+}
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+}
+header {
+  max-width: 1440px;
+  max-height: 134px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  width: 50%;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 42px 109px 42px 111px;
+  font-size: 16px;
+  font-family:'Inika', serif;
+}
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+a:hover {
+  text-decoration: none;
+  color: #E06733;
+}
+.nav-link {
+  line-height: 50px;
+  text-decoration: none;
+  color: #010201;
+  transition: color 0.5s;
+}
+.nav-item {
+  padding-right: 46px;
+}
+.nav-item:last-child {
+  padding-right: 0px;
+}
+.leafs {
+  display: flex;
+}
+.welcome-section {
+  display: flex;
+  float: left;
+  background-color: #FFFFFF;
+}
+.prices {
+  background-color: #FFFFFF;
+}
