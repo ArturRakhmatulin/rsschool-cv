@@ -8,7 +8,9 @@
 * **GitHub:** [arturrakhmatulin](https://github.com/ArturRakhmatulin)
 * **Discord:** @Alsfion#9651
 
+
 ## About Me 
+
 
 I adaptable , able to adapt to a new environment.  
 If something interests me, then I go to the goal without stopping.  
